@@ -102,13 +102,14 @@ span {
     height: 400px;
     width: auto;
     object-fit: contain;
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 .images .back {
     height: 400px;
     width: auto;
     object-fit: contain;
+    border-radius: 10%;
 }
 
 .images:hover .back {
